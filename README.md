@@ -42,7 +42,7 @@ Se você estiver no Windows ou Linux, use os scripts de automação inclusos:
 ---
 
 ### Fluxo de Execução
-@@ -44,11 +63,22 @@ Os notebooks estão numerados para indicar a dependência de dados:
+Os notebooks estão numerados para indicar a dependência de dados:
 * 02_silver_cleaning.ipynb: Aplica as regras de padronização e limpeza de canais e marcas.
 * 03_gold_business.ipynb: Realiza o JOIN final e responde às perguntas de negócio, como o Top 3 Trade Groups por Região e as vendas mensais por marca.
 
